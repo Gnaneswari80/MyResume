@@ -60,7 +60,7 @@
 <body>
     <div class="container">
         <h1>T Gnaneswari</h1>
-        <p style="text-align:center;">Nagari | tgnaneswari2004@gmail.com | [Your Phone Number]</p>
+        <p style="text-align:center;">Nagari>Np>
         <hr>
 
         <div class="section">
